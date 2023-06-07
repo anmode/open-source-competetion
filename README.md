@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
 # SOC-Programs
-[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/network)
-[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/stargazers)
-[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Open-Source-Programs.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
+[![GitHub issues](https://img.shields.io/github/issues/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/issues)
+[![GitHub forks](https://img.shields.io/github/forks/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/network)
+[![GitHub stars](https://img.shields.io/github/stars/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/stargazers)
+[![GitHub license](https://img.shields.io/github/license/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/anmode/open-source-programs.svg?label=open-source-programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Fanmode%2Fopen-source-programs)
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
