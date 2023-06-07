@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
 # SOC-Programs
-[![GitHub issues](https://img.shields.io/github/issues/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/issues)
-[![GitHub forks](https://img.shields.io/github/forks/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/network)
-[![GitHub stars](https://img.shields.io/github/stars/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/stargazers)
-[![GitHub license](https://img.shields.io/github/license/anmode/open-source-programs.svg)](https://github.com/anmode/open-source-programs/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/anmode/open-source-programs.svg?label=open-source-programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Fanmode%2Fopen-source-programs)
+[![GitHub issues](https://img.shields.io/github/issues/anmode/open-source-competetion.svg)](https://github.com/anmode/open-source-competetion/issues)
+[![GitHub forks](https://img.shields.io/github/forks/anmode/open-source-competetion.svg)](https://github.com/anmode/open-source-competetion/network)
+[![GitHub stars](https://img.shields.io/github/stars/anmode/open-source-competetion.svg)](https://github.com/anmode/open-source-competetion/stargazers)
+[![GitHub license](https://img.shields.io/github/license/anmode/open-source-competetion.svg)](https://github.com/anmode/open-source-competetion/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/anmode/open-source-competetion.svg?label=open-source-competetion&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Fanmode%2Fopen-source-competetion)
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
@@ -21,7 +21,7 @@
 |[Rails Girls Summer of Code (RGSoC)](http://railsgirlssummerofcode.org/)|Yes|[timeline](https://railsgirlssummerofcode.org/)|
 |[Google Season of Docs](https://developers.google.com/season-of-docs/)|Yes|[timeline](https://developers.google.com/season-of-docs/docs/timeline)|
 |[Outreachy - Software Freedom Conservancy's Outreach Program for Women, Transgender people, and/or Gender diverse people. ](https://www.outreachy.org/) | Yes | [timeline](https://www.outreachy.org/) |
-|[Python Software Foundation Mentored Mentorship and Outreach program (PyMMO)]( https://wiki.python.org/moin/Mentorship%20Programs/Mentored%20Mentorship%20and%20Outreach%20program)|No  |[timeline] ( https:/ / wiki.python .org/moin /M ento rsh ip P rog ra ms/M en to red Mento rs hip an d Out reach pr ogr am )|
+|[Python Software Foundation Mentored Mentorship and Outreach program (PyMMO)]( https://wiki.python.org/moin/Mentorship%20Programs/Mentored%20Mentorship%20and%20Outreach%20program)| No  |[timeline] ( https:/ / wiki.python .org/moin /M ento rsh ip P rog ra ms/M en to red Mentorship and Out reach program/ )           |
 | [GSSOC](https://gssoc.girlscript.tech/project) | No | [timeline](https://developers.google.com/open-source/gssoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#space-menu-link-content) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
