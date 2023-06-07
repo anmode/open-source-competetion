@@ -17,7 +17,12 @@
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
 |[Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
-| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
+|[Open Mainframe Project Internship Program](https://www.openmainframeproject.org/projects/internship-program)|Yes|[timeline](https://www.openmainframeproject.org/projects/internship-program)|
+|[Rails Girls Summer of Code (RGSoC)](http://railsgirlssummerofcode.org/)|Yes|[timeline](https://railsgirlssummerofcode.org/)|
+|[Google Season of Docs](https://developers.google.com/season-of-docs/)|Yes|[timeline](https://developers.google.com/season-of-docs/docs/timeline)|
+|[Outreachy - Software Freedom Conservancy's Outreach Program for Women, Transgender people, and/or Gender diverse people. ](https://www.outreachy.org/) | Yes | [timeline](https://www.outreachy.org/) |
+|[Python Software Foundation Mentored Mentorship and Outreach program (PyMMO)]( https://wiki.python.org/moin/Mentorship%20Programs/Mentored%20Mentorship%20and%20Outreach%20program)|No  |[timeline] ( https:/ / wiki.python .org/moin /M ento rsh ip P rog ra ms/M en to red Mento rs hip an d Out reach pr ogr am )|
+| [GSSOC](https://gssoc.girlscript.tech/project) | No | [timeline](https://developers.google.com/open-source/gssoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#space-menu-link-content) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
 | [Linux Foundation Mentorship Internships](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
